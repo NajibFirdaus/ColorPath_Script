@@ -1,0 +1,4 @@
+-Difficuity naik per 10 level
+-Board size naik per 20 level
+-Jumlah pasagan naik per 30 level
+-Time limit berkurang per 10 level maksimal berkurang sampai time menjadi 30 detik di level 120 an
